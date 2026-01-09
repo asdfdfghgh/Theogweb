@@ -125,7 +125,7 @@ const App: React.FC = () => {
             
             <div className="text-center md:text-left max-w-2xl bg-white/40 backdrop-blur-sm p-8 rounded-3xl border border-white/50 shadow-sm">
                 <div className="inline-block mb-4 px-3 py-1 border border-nobel-gold text-nobel-gold text-xs tracking-[0.2em] uppercase font-bold rounded-full backdrop-blur-sm bg-white/50">
-                    Portfolio 2025
+                    Hello
                 </div>
                 <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-medium leading-tight mb-6 text-stone-900">
                     Subhra Jyoti Mishra
@@ -134,7 +134,7 @@ const App: React.FC = () => {
                     5th Year Integrated M.Sc. in Physics
                 </p>
                 <p className="max-w-xl text-sm md:text-base text-stone-500 font-bold tracking-widest uppercase mb-10">
-                    Machine Learning Researcher | Freelance Developer | NISER Bhubaneswar
+                    Machine Learning and Exoplanet Researcher | Freelance Developer | NISER Bhubaneswar
                 </p>
                 
                 <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
@@ -173,7 +173,7 @@ const App: React.FC = () => {
                 I am a student at the <strong className="text-stone-900">National Institute of Science Education and Research (NISER)</strong>, specializing in Computational Astrophysics and Machine Learning.
               </p>
               <p className="text-lg text-stone-600 leading-relaxed mb-6">
-                My work bridges the gap between **theoretical physics** and **artificial intelligence**, using data-driven methods to solve complex problems in planetary science, radio astronomy, and sustainable agriculture.
+               I am a physics major with a specialization in *computation, astrophysics*, and *machine learning*. My research focuses on the integration of ML models across diverse applications, as well as the development of advanced neural network architectures to solve complex scientific challenges.
               </p>
             </div>
             <div className="md:col-span-7 grid grid-cols-1 sm:grid-cols-2 gap-6">
